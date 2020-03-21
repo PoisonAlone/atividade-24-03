@@ -29,6 +29,10 @@ body{background-image: linear-gradient(to top, #313636, #ccc);}
 .contatos i{font-size: 30px; color: silver; margin-bottom: 2%; margin-right: 1%; transition: all .5s ease-in-out;}
 .contatos i:hover{color: #FFD700;}
 .footer p{color: #999900; font-size: 12px;}
+
+
+
+
 /*auxiliares*/
 .content{
 	margin-left: 5%; margin-right: 5%;
